@@ -5,7 +5,9 @@ React solves for issues of dynamic sites.
 Know that react too converts code into html, css and js under the hood.
 
 To get more about react try to get 2 stuff of react
-(Interview question)
-<h1>1) state </h1>-> In React, state is a built-in object used to store and manage a component's dynamic data.
+<br>
+<strong>(Interview question)</strong>
+<b>1) state </b>-> In React, state is a built-in object used to store and manage a component's dynamic data.
 It allows components to create and maintain their own data, making the UI responsive to user interactions.
-2) component
+<b>2) component</b> -> In react dividing the repeating section of code into single function and then according to the value we
+re render it
