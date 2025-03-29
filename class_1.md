@@ -19,3 +19,18 @@ Knock knock ->
 1) In react rendering either you create a separate component to improve performance
 2) use (memo) -> skips re-rendering if dom is not manipulated.
 Performance is improved to a great extent
+
+Got to know more about
+1) Why react should return as a single parent with multiple child instead of multiple parent with multiple child
+2) Using memo for rendering improves the performance as well as better optimization(lots i=of heavy terms but good from interview perspective)
+3) Key -> should always use when using map or filter or any other function that
+renders multiple stuffs
+4) Then wrapper component in which we use child component
+
+Two jargons before we start.
+1) Side effect -> affecting other components
+2) Hooks ->
+
+UseEffect()
+We do not want rendering should go always,
+instead rendering be done once in case of some special cases.
