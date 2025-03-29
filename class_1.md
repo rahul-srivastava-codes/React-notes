@@ -34,3 +34,5 @@ Two jargons before we start.
 UseEffect()
 We do not want rendering should go always,
 instead rendering be done once in case of some special cases.
+Also it has dependency array and useeffect is updated or rendered when this dependency changes.
+It can take multiple values as it is known as dependency array.
