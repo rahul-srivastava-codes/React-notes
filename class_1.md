@@ -36,3 +36,11 @@ We do not want rendering should go always,
 instead rendering be done once in case of some special cases.
 Also it has dependency array and useeffect is updated or rendered when this dependency changes.
 It can take multiple values as it is known as dependency array.
+
+Got to know more about usecallback and the most important stuff
+1) prop drilling
+2) never use prop drilling get to know about context api and then learn stuff like redux.
+Now most of my reacts theory is done . Now its time to visit github react project understand how the code is wriiteen allong side
+if possible work on some open source project. Best thing go for projects which offer bounties.
+It motivate you if you cannot make it , remember you created a industry level project atleast
+which differentiate you from the rest of the people
